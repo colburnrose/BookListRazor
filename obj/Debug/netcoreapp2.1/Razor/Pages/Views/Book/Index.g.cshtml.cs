@@ -56,7 +56,7 @@ using BookListRazor;
             WriteLiteral("\r\n<Br />\r\n<div class=\"container row\">\r\n    <div class=\"col-md-6\">\r\n        <h2 class=\"text-info\">Book List</h2>\r\n    </div>\r\n    <div class=\"col-md-6 text-right\">\r\n        ");
             EndContext();
             BeginContext(270, 68, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "cc8fceb833094e64a4b0ee3571184302", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e66a4c6c078a4206a37df785241e051a", async() => {
                 BeginContext(319, 15, true);
                 WriteLiteral("Create New Book");
                 EndContext();
