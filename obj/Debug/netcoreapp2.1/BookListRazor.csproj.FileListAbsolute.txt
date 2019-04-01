@@ -31,3 +31,4 @@ C:\Users\csanders\Projects\Book List Razor\BookListRazor\BookListRazor\obj\Debug
 C:\Users\csanders\Projects\Book List Razor\BookListRazor\BookListRazor\obj\Debug\netcoreapp2.1\BookListRazor.csproj.CopyComplete
 C:\Users\csanders\Projects\Book List Razor\BookListRazor\BookListRazor\obj\Debug\netcoreapp2.1\BookListRazor.csprojAssemblyReference.cache
 C:\Users\csanders\Projects\Book List Razor\BookListRazor\BookListRazor\obj\Debug\netcoreapp2.1\Razor\Pages\Views\Book\Index.g.cshtml.cs
+C:\Users\csanders\Projects\Book List Razor\BookListRazor\BookListRazor\obj\Debug\netcoreapp2.1\Razor\Pages\Views\Book\CreateBook.g.cshtml.cs

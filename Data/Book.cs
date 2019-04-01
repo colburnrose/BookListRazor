@@ -15,6 +15,7 @@ namespace BookListRazor.Data
         [Display(Name="Book Name")]
         public string Name { get; set; }
 
+        [Display(Name="ISBN")]
         public string Isbn { get; set; }
 
         public string Author { get; set; }
