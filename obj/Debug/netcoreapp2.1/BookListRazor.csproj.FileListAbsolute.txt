@@ -32,3 +32,4 @@ C:\Users\csanders\Projects\Book List Razor\BookListRazor\BookListRazor\obj\Debug
 C:\Users\csanders\Projects\Book List Razor\BookListRazor\BookListRazor\obj\Debug\netcoreapp2.1\BookListRazor.dll
 C:\Users\csanders\Projects\Book List Razor\BookListRazor\BookListRazor\obj\Debug\netcoreapp2.1\BookListRazor.pdb
 C:\Users\csanders\Projects\Book List Razor\BookListRazor\BookListRazor\obj\Debug\netcoreapp2.1\BookListRazor.csproj.CopyComplete
+C:\Users\csanders\Projects\Book List Razor\BookListRazor\BookListRazor\obj\Debug\netcoreapp2.1\Razor\Pages\Views\Book\Edit.g.cshtml.cs
