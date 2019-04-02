@@ -1,4 +1,5 @@
 ﻿@page
+@using Microsoft.CodeAnalysis
 @model BookListRazor.Pages.Views.Book.CreateBookModel
 @{
     ViewData["Title"] = "CreateBook";
@@ -18,7 +19,7 @@
 
                 <div class="form-group col-sm-4">
                     <input asp-for="Book.Name" class="form-control"/>
-                    <span asp-validation-for="Book.Name"></span>
+                    <span asp-validation-for="Book.Name" class="text-danger"></span>
                 </div>
             </div>
 
@@ -44,7 +45,7 @@
                 </div>
             </div>
 
-            <div class="ibox-footer">
+            <div class="ibox">
                 <div class="form-group">
                     <button id="btnCreate" type="submit" class="btn  btn-success">Create</button>
                     <div class="col-sm-2">
@@ -58,3 +59,8 @@
     </div>
 
 </div>
+
+
+@section Scripts{ 
+    @{ await Html.RenderPartialAsync("Shared/_ValidationScriptsPartial");}
+}

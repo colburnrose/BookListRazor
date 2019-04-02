@@ -1,8 +1,3 @@
-C:\Users\csanders\Projects\Book List Razor\BookListRazor\BookListRazor\obj\Debug\netcoreapp2.1\BookListRazor.csproj.CoreCompileInputs.cache
-C:\Users\csanders\Projects\Book List Razor\BookListRazor\BookListRazor\obj\Debug\netcoreapp2.1\BookListRazor.RazorAssemblyInfo.cache
-C:\Users\csanders\Projects\Book List Razor\BookListRazor\BookListRazor\obj\Debug\netcoreapp2.1\BookListRazor.RazorAssemblyInfo.cs
-C:\Users\csanders\Projects\Book List Razor\BookListRazor\BookListRazor\obj\Debug\netcoreapp2.1\BookListRazor.AssemblyInfoInputs.cache
-C:\Users\csanders\Projects\Book List Razor\BookListRazor\BookListRazor\obj\Debug\netcoreapp2.1\BookListRazor.AssemblyInfo.cs
 C:\Users\csanders\Projects\Book List Razor\BookListRazor\BookListRazor\bin\Debug\netcoreapp2.1\BookListRazor.deps.json
 C:\Users\csanders\Projects\Book List Razor\BookListRazor\BookListRazor\bin\Debug\netcoreapp2.1\BookListRazor.runtimeconfig.json
 C:\Users\csanders\Projects\Book List Razor\BookListRazor\BookListRazor\bin\Debug\netcoreapp2.1\BookListRazor.runtimeconfig.dev.json
@@ -10,6 +5,12 @@ C:\Users\csanders\Projects\Book List Razor\BookListRazor\BookListRazor\bin\Debug
 C:\Users\csanders\Projects\Book List Razor\BookListRazor\BookListRazor\bin\Debug\netcoreapp2.1\BookListRazor.pdb
 C:\Users\csanders\Projects\Book List Razor\BookListRazor\BookListRazor\bin\Debug\netcoreapp2.1\BookListRazor.Views.dll
 C:\Users\csanders\Projects\Book List Razor\BookListRazor\BookListRazor\bin\Debug\netcoreapp2.1\BookListRazor.Views.pdb
+C:\Users\csanders\Projects\Book List Razor\BookListRazor\BookListRazor\obj\Debug\netcoreapp2.1\BookListRazor.csprojAssemblyReference.cache
+C:\Users\csanders\Projects\Book List Razor\BookListRazor\BookListRazor\obj\Debug\netcoreapp2.1\BookListRazor.csproj.CoreCompileInputs.cache
+C:\Users\csanders\Projects\Book List Razor\BookListRazor\BookListRazor\obj\Debug\netcoreapp2.1\BookListRazor.RazorAssemblyInfo.cache
+C:\Users\csanders\Projects\Book List Razor\BookListRazor\BookListRazor\obj\Debug\netcoreapp2.1\BookListRazor.RazorAssemblyInfo.cs
+C:\Users\csanders\Projects\Book List Razor\BookListRazor\BookListRazor\obj\Debug\netcoreapp2.1\BookListRazor.AssemblyInfoInputs.cache
+C:\Users\csanders\Projects\Book List Razor\BookListRazor\BookListRazor\obj\Debug\netcoreapp2.1\BookListRazor.AssemblyInfo.cs
 C:\Users\csanders\Projects\Book List Razor\BookListRazor\BookListRazor\obj\Debug\netcoreapp2.1\BookListRazor.TagHelpers.input.cache
 C:\Users\csanders\Projects\Book List Razor\BookListRazor\BookListRazor\obj\Debug\netcoreapp2.1\BookListRazor.TagHelpers.output.cache
 C:\Users\csanders\Projects\Book List Razor\BookListRazor\BookListRazor\obj\Debug\netcoreapp2.1\BookListRazor.RazorCoreGenerate.cache
@@ -21,6 +22,8 @@ C:\Users\csanders\Projects\Book List Razor\BookListRazor\BookListRazor\obj\Debug
 C:\Users\csanders\Projects\Book List Razor\BookListRazor\BookListRazor\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
 C:\Users\csanders\Projects\Book List Razor\BookListRazor\BookListRazor\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
 C:\Users\csanders\Projects\Book List Razor\BookListRazor\BookListRazor\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\csanders\Projects\Book List Razor\BookListRazor\BookListRazor\obj\Debug\netcoreapp2.1\Razor\Pages\Views\Book\CreateBook.g.cshtml.cs
+C:\Users\csanders\Projects\Book List Razor\BookListRazor\BookListRazor\obj\Debug\netcoreapp2.1\Razor\Pages\Views\Book\Index.g.cshtml.cs
 C:\Users\csanders\Projects\Book List Razor\BookListRazor\BookListRazor\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
 C:\Users\csanders\Projects\Book List Razor\BookListRazor\BookListRazor\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
 C:\Users\csanders\Projects\Book List Razor\BookListRazor\BookListRazor\obj\Debug\netcoreapp2.1\BookListRazor.RazorTargetAssemblyInfo.cache
@@ -29,6 +32,3 @@ C:\Users\csanders\Projects\Book List Razor\BookListRazor\BookListRazor\obj\Debug
 C:\Users\csanders\Projects\Book List Razor\BookListRazor\BookListRazor\obj\Debug\netcoreapp2.1\BookListRazor.dll
 C:\Users\csanders\Projects\Book List Razor\BookListRazor\BookListRazor\obj\Debug\netcoreapp2.1\BookListRazor.pdb
 C:\Users\csanders\Projects\Book List Razor\BookListRazor\BookListRazor\obj\Debug\netcoreapp2.1\BookListRazor.csproj.CopyComplete
-C:\Users\csanders\Projects\Book List Razor\BookListRazor\BookListRazor\obj\Debug\netcoreapp2.1\BookListRazor.csprojAssemblyReference.cache
-C:\Users\csanders\Projects\Book List Razor\BookListRazor\BookListRazor\obj\Debug\netcoreapp2.1\Razor\Pages\Views\Book\Index.g.cshtml.cs
-C:\Users\csanders\Projects\Book List Razor\BookListRazor\BookListRazor\obj\Debug\netcoreapp2.1\Razor\Pages\Views\Book\CreateBook.g.cshtml.cs
