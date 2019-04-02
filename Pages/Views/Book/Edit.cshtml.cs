@@ -17,14 +17,31 @@ namespace BookListRazor.Pages.Views.Book
             _db = db;
         }
 
-        [BindProperty]
-        public Data.Book Book { get; set; }
+        [BindProperty] public Data.Book Book { get; set; }
 
-        public void OnGet(int id)
+        public async Task OnGet(int id)
         {
-            Book = _db.Books.Find(id);
+            Book = await _db.Books.FindAsync(id);
         }
 
+        // Update method to update an existing book.
+        public async Task<IActionResult> OnPost()
+        {
+            if (ModelState.IsValid)
+            {
+                var book = await _db.Books.FindAsync(Book.Id);
 
+                book.Name = Book.Name;
+                book.Isbn = Book.Isbn;
+                book.Author = Book.Author;
+
+                _db.Update(book);
+                await _db.SaveChangesAsync();
+
+                return RedirectToPage("Index");
+            }
+
+            return RedirectToPage();
+        }
     }
 }
