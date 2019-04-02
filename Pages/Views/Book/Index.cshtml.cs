@@ -18,7 +18,7 @@ namespace BookListRazor.Pages.Views.Book
             _db = db;
         }
 
-        public List<Data.Book> Books { get; set; }
+        public IEnumerable<Data.Book> Books { get; set; }
 
         public async Task OnGet()
         {
