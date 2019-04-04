@@ -40,7 +40,7 @@ namespace BookListRazor.Pages.Views.Book
             _db.Remove(book);
             await _db.SaveChangesAsync();
 
-            Message = "Book has been deleted successfully";
+            Message = "Book has been deleted successfully ";
             return RedirectToPage("Index");
         }
     }
