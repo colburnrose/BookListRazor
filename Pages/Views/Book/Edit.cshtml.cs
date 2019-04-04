@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using BookListRazor.Data;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using Microsoft.VisualStudio.Web.CodeGeneration.Contracts.Messaging;
 
 namespace BookListRazor.Pages.Views.Book
 {
@@ -18,6 +19,9 @@ namespace BookListRazor.Pages.Views.Book
         }
 
         [BindProperty] public Data.Book Book { get; set; }
+
+        [TempData]
+        public string Message { get; set; }
 
         public async Task OnGet(int id)
         {
@@ -38,6 +42,7 @@ namespace BookListRazor.Pages.Views.Book
                 _db.Update(book);
                 await _db.SaveChangesAsync();
 
+                Message = "Book has been updated successfully";
                 return RedirectToPage("Index");
             }
 

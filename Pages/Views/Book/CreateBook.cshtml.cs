@@ -34,11 +34,15 @@ namespace BookListRazor.Pages.Views.Book
             _db.Books.Add(Book);
             await _db.SaveChangesAsync();
 
+            Message = "Book has been created successfully " + Book.Name;
             return RedirectToPage("Index");
         }
 
         [BindProperty]
         public Data.Book Book { get; set; }
+
+        [TempData]
+        public string Message { get; set; }
 
         //[Display(Name="Book Name")]
         //[DataType(DataType.Text)]
